@@ -18,7 +18,7 @@ I am a web Developer.
 i love to code.
 i love to eat beriani.
 `
-// console.log(sentence);
+console.log(sentence);
 
 
 // problem:1:
